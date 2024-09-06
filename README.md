@@ -7,3 +7,4 @@ raw cereals like :Wheat ,Barley, Corn,...etc,due to purity and adultration conce
 less knowledege of area around them ,now a days people buy atta online,giving a tough competition to Atta 
 Chakkis in local areas . Thus this highlights a problem which  requires this web application to solve both the 
 problem of customers and the atta chakki owners .
+#Millings-Commodities-Booking
