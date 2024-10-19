@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Millings-Commodities-Booking
 In the existing world there are apps for delivery of almost every product and for many products there are pick 
 and drop service also . Similarly, it has been observed that there are many apps which offers delivery for the 
